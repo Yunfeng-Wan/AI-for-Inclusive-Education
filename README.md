@@ -1,3 +1,9 @@
-# AI4Inclusive-Education
+# Bridging Inclusive Education and AI: A Technology-Centric Taxonomy and Systematic Literature Review
 
-Hello, dear PACIS reviwers.
+This is the anonymous repository for the **completed research paper** submitted to **PACIS 2026**.
+
+## Repository Contents
+
+* **Included Papers/**: This folder contains all the papers selected for this study, categorized according to our proposed taxonomy.
+* **PICO Framework.xlsx**: Provides detailed information on each dimension of the PICO criteria used to construct our search strings.
+* **Boolean Search Strings.xlsx**: Documents the specific search strings utilized for retrieval across five academic databases.
