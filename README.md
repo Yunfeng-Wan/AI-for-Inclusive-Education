@@ -1,6 +1,6 @@
 # Bridging Inclusive Education and AI: A Technology-Centric Taxonomy and Systematic Literature Review
 
-This is the repository for the **completed research paper** accepted at **PACIS 2026**.
+This is the repository for the **completed research paper** accepted at **Pacific Asia Conference on Information Systems (PACIS) 2026**.
 
 ## Repository Contents
 
